@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/chathushka-madumal-030785264/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</p>>
+</p>
    
 <!--
 **chathushka1/chathushka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
