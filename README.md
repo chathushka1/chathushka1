@@ -10,7 +10,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>                                               
 </p>
-   This site was built using [Linked IN]([https://pages.github.com/](https://www.linkedin.com/in/chathushka-madumal-030785264/)).                                                                                                     
+   This site was built using [Linked IN](https://www.linkedin.com/in/chathushka-madumal-030785264/).                                                                                                     
                                                       
  
 <!--
